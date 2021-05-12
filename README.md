@@ -23,3 +23,4 @@
 
 ## Sơ đồ tổng quan kiến trúc hệ thống
 
+![alt text](https://github.com/sandl99/SmartHome/blob/master/sodo.png)
