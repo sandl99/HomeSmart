@@ -1,0 +1,9 @@
+#sensor-tab {
+    display: grid;
+    min-height: 500px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px 20px;
+    background-color: lightgray;
+    margin: 80px;
+    padding: 20px;
+}

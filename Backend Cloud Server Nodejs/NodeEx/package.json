@@ -1,0 +1,29 @@
+{
+  "name": "NodeEx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "express-session": "^1.17.1",
+    "helmet": "^4.4.1",
+    "jade": "^1.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.3",
+    "mongodb-memory-server": "^6.9.3",
+    "mongoose": "^5.11.13",
+    "morgan": "^1.10.0",
+    "mqtt": "^4.2.6",
+    "pbkdf2-password": "^1.2.1"
+  }
+}
